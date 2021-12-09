@@ -1,0 +1,17 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Carol Porchia ;;;;
+FN:Carol Porchia 
+ORG:Survivor Moving and Packing
+COMPANY:Survivor Moving and Packing
+TITLE:Owner
+TEL;TYPE=work,pref:682-305-9427
+TEL;CELL;TYPE=mobile,VOICE:
+TEL;CELL;TYPE=work,VOICE:
+TEL;TYPE=HOME,VOICE:
+EMAIL;TYPE=work:
+URL:https://survivormoving.com/
+ADR;TYPE=HOME:1174 W Pioneer pkwy Arlington, TX 76013
+KEY:OPENPGP4FPR:
+UID:SMART vCARD-840148
+END:VCARD
